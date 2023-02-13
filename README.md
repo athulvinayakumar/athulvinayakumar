@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athulvinayakumar&label=Profile%20views&color=0e75b6&style=flat" alt="athulvinayakumar" /> </p>
 <img align="right" alt="Coding" width="400" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif">
 
-- 💬 Ask me about **C,C++,JAVA,PYTHON**
+- 💬 Ask me about **C,C++,PHP,PYTHON**
 
 - 📫 How to reach me **athulvinayakumar123@gmail.com**
 
